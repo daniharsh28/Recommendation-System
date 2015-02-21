@@ -1,0 +1,20 @@
+Here are the instructions to run the code:
+
+##Important: required libraires to run: matplotlib, numpy and scipy, pandas (to read the data)
+HW4#1.py 
+Just run the code enter the user id, neighbourhood size and item id 
+
+HW4#2a.py
+The plot is submitted along the code 
+
+HW4#2b.py
+The predicted values for the user 269, item 127 and neighbourhood size 5 is
+
+user based similarity : 3.0092879257
+item based similarity : 3.92698412698
+
+user based with svd:  4.1256200457
+item based with svd:  4.28398058252
+
+Top 5 users that are similar to 269 using SVD: 301,85, 313, 727, 389
+Top 5 items that are similar to 127 using SVD: 653,258,760,1347,513
